@@ -5,10 +5,10 @@
 
 body{
     background-size: cover;
-    backdrop-filter: blur(10px);
+    backdrop-filter: blur(6px);
     background-repeat: repeat;
     background-position: 100%;
-    background-image: url("gifminecfafris.gif");
+    background-image: url("girasol.gif");
     min-height: 100vh;
     max-height: 100%;
     overflow: hidden;
@@ -92,8 +92,9 @@ body{
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
-    margin-top: 280px;
+    margin-top: 160px;
     padding: 0%;
+    gap: 5px;
 }
 .carta{
     display: flex;
